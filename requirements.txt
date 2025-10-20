@@ -1,0 +1,7 @@
+streamlit>=1.20
+pillow
+numpy
+opencv-python
+ultralytics   # optional; only if you use YOLOv8 models
+torch>=1.13   # recommended if using PyTorch models
+matplotlib
